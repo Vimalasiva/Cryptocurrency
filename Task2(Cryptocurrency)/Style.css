@@ -1,0 +1,66 @@
+p,p1
+      {
+        color:rgb(3, 98, 176);
+        font-size: 40px;
+      }
+      p2
+      {
+        color:rgb(195, 192, 192)
+      }
+      #email 
+      {
+       
+        width:50%;
+      }
+      
+    .row
+    {
+      color:rgb(3, 98, 176);
+      font-size:30px;
+      text-align:center;
+    }
+    .part{
+      background:linear-gradient(to right,rgb(3, 98, 176),rgb(81, 245, 217)) ;
+      height: 500px;
+
+      
+    }
+    p5
+    {
+      font-size:30px;
+    }
+    p6
+    {
+      font-size:10px;
+    }
+    p8
+    {
+      font-size:13px;
+
+    }
+    a{
+      font-size: 10px;
+      color:white
+    }
+    .btn{
+      background: linear-gradient(#fff, #fff) padding-box,
+              linear-gradient(45deg, #0033cc 0%,#00cc99 100%) border-box;
+      border: 4px solid transparent;
+      border-radius: 50px;
+      color:#0033cc;
+    }
+    .intro{
+      background:white;
+      height: 400px;
+    }
+    .subscribe
+    {
+      background:linear-gradient(to right,rgb(3, 98, 176),rgb(81, 245, 217)) ;
+      height: 200px;
+    }
+    .arrow-icon
+    {
+      right:-44%;
+      top:-18%;
+      z-index: 1;
+    }
